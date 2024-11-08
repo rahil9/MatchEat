@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MatchEat</string>
+    <string name="enter_a_cuisine_that_you_love">Enter a cuisine that you love</string>
+    <string name="your_ratings_go_here">your ratings go here</string>
+    <string name="curate_suggestions">Curate Suggestions</string>
+    <string name="enter_your_minimum_ratings">Enter your minimum ratings</string>
+    <string name="your_cuisine_goes_here">your cuisine goes here</string>
+    <string name="todo">TODO</string>
+    <string name="name">Name</string>
+    <string name="rating">Rating</string>
+    <string name="location">Location</string>
+</resources>
