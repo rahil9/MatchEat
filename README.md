@@ -9,6 +9,24 @@
 - View restaurant locations on Google Maps.
 - Clean, user-friendly interface.
 
+## Screenshots
+
+![1](https://github.com/user-attachments/assets/bd1c86ab-4b33-426a-8e08-b35802fa0611)
+
+*User input screen for cuisine and rating preferences.*
+
+![2](https://github.com/user-attachments/assets/a243ea34-9bb5-403c-857f-b9cd5de7950b)
+
+*Screen displaying restaurant details and location.*
+
+![3](https://github.com/user-attachments/assets/4ed1df7a-a4cd-4b05-9ea4-c7693a80096f)
+
+*API Loading screen right before the list of restaurants are displayed*
+
+![4](https://github.com/user-attachments/assets/20092f90-c025-4732-8a48-cff23aa24ce0)
+
+*Google Maps integration with restaurant location.*
+
 ## How to Run
 
 ### Prerequisites
